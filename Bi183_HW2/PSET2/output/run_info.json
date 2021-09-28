@@ -1,0 +1,13 @@
+{
+	"n_targets": 119353,
+	"n_bootstraps": 0,
+	"n_processed": 13538930,
+	"n_pseudoaligned": 12283130,
+	"n_unique": 6108163,
+	"p_pseudoaligned": 90.7,
+	"p_unique": 45.1,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Mon Jan 20 11:28:47 2020",
+	"call": "C:\Program Files\kallisto\kallisto.exe quant -i Mouse -o output SRR7244429_1.fastq SRR7244429_2.fastq"
+}
